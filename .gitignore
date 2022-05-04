@@ -455,3 +455,4 @@ $RECYCLE.BIN/
 
 # Manually added ignores
 appsettings.json
+ssl
